@@ -6,7 +6,7 @@ We are a boutique consulting organization focused on helping companies adopt Dev
 
 - :world_map: We are a fully remote company. We have engineers spread all across the US. 
 - :heart: We love Kubernetes and the Cloud Native ecosystem.
-- :nerd_face: We have practices around GitHub, GitLab, Azure, AWS, GCP, and Security!
+- :nerd_face: We have practices around GitHub, Azure, AWS, GCP, and Security!
 
 :money_mouth_face: **We are hiring**, reach out to us if you want to become part of the team.
 
